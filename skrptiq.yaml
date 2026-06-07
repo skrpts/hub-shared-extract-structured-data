@@ -1,9 +1,9 @@
 # --- Identity ---
-id: "258b751f-4304-4c58-9cfa-fa67227a13c2"
+id: "7e34d2aa-b68b-4bcb-bc95-8b499b118f4f"
 name: "extract-structured-data"
 display_name: "Extract Structured Data"
 description: "Extracts structured fields and key-value pairs from unstructured text"
-version: "1.0.0"
+version: "1.0.1"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
